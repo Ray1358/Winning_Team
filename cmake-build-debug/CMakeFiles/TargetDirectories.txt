@@ -1,0 +1,5 @@
+/Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug/CMakeFiles/unittest.dir
+/Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug/CMakeFiles/Winning_Team.dir
+/Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug/CMakeFiles/test.dir
+/Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug/CMakeFiles/rebuild_cache.dir

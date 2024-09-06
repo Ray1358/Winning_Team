@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -DPython_EXECUTABLE=/usr/local/bin/python3.12 -DPython3_EXECUTABLE=/usr/local/bin/python3.12 -S /Users/ramon/CLionProjects/CSC109/Winning_Team -B /Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug
+-- Found CxxTest: /Users/ramon/Documents/cxxtest-4.4
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/ramon/CLionProjects/CSC109/Winning_Team/cmake-build-debug
